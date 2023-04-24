@@ -21,7 +21,7 @@ documentation:
   author:       "Noah Hoffman"      # Your name
   title:        "Tiny Teeth Toothbrush Timer"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "A simple 2 minute timer that gives visual feedback on the seven-segment display for each 30-second increment that passes. This indicates when to move to the next quarter of the mouth. Each 30 second increment can be blocked by an input switch so the user has to acknowledge they are done with that section before moving forward. At the end of 2 minutes, all segments of the display will flash"      # Short description of what your project does
+  description:  "Simple 2 minute timer that gives visual feedback on the seven-segment display for each 30-second increment that passes. This indicates when to move to the next quarter of the mouth. Each 30 second increment can be blocked by an input switch so the user has to acknowledge they are done with that section before moving forward. At the end of 2 minutes, all segments of the display will flash"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
